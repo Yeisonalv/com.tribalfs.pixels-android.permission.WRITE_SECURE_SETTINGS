@@ -1,0 +1,7 @@
+echo "# com.tribalfs.pixels-android.permission.WRITE_SECURE_SETTINGS" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M principal 
+git remoto agregar origen https://github. com/Yeisonalv/com.tribalfs.pixels-android.permission.WRITE_SECURE_SETTINGS.git
+ git push -u origen principal
